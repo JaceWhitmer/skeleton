@@ -1,0 +1,2 @@
+# A list of python packages required by your project, including the Django
+package
